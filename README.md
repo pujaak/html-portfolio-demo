@@ -1,2 +1,2 @@
 # html-portfolio
-This webpage is made to practice what I am learning currently.
+This is a simple portfolio website created as part of Angela Yu's Web Development Bootcamp.
